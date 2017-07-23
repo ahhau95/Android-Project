@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Penang Hawker Food Navigator</string>
+    <string name="Text1">Penang Hawker Food Navigator</string>
+    <string name="Text2">WELCOME TO PENANG</string>
+    <string name="Button1">Explore</string>
+    <string name="maps_api_key">AIzaSyAp0kGD41UlXEg9J78VKq5ByN1aVHWog6g</string>
+</resources>
